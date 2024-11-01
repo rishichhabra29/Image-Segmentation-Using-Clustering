@@ -57,6 +57,7 @@ The dataset used in this project consists of:
 - **Images**: A collection of 290 images depicting flood-hit areas.
 - **Masks**: Corresponding masks that highlight the water regions, annotated using Label Studio.
 - **Metadata**: A CSV file mapping image names to their respective masks.
+- **link** `https://www.kaggle.com/datasets/faizalkarim/flood-area-segmentation`
 
 ## Methodology
 The methodology includes several key steps:
@@ -86,7 +87,7 @@ DBSCAN identifies clusters based on the density of data points, making it suitab
 ## Run Instructions
 To execute the code for this project, follow these steps:
 
-1. **Clone the repository** (if hosted on a platform like GitHub):
+1. **Clone the repository** :
    ```bash
    git clone https://github.com/yourusername/image-segmentation-clustering.git
    cd image-segmentation-clustering
