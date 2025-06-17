@@ -1,5 +1,5 @@
 
-# Image Segmentation Using Clustering
+# Unsupervised Flood-Region Segmentation Using Clustering Algorithms
 
 ## Authors
 - Rishi Chhabra (Roll No: M24CSE020)
